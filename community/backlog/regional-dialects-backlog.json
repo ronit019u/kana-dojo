@@ -216,8 +216,10 @@
     "region": "Kansai",
     "note": "Classic comedic retort (tsukkomi). (Set 2)",
     "id": 22,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8088
   },
   {
     "dialect": "めっちゃ",
