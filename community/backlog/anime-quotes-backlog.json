@@ -226,8 +226,10 @@
     "english": "Dance to my beautiful technique!",
     "anime": "The Prince of Tennis",
     "character": "Keigo Atobe",
-    "completed": false,
-    "issued": true
+    "completed": true,
+    "issued": false,
+    "completedBy": "FloodExLLC",
+    "completedPR": 9475
   },
   {
     "id": 24,
