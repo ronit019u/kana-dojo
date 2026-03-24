@@ -140,7 +140,7 @@
     "romaji": "Warau kado ni wa fuku kitaru",
     "english": "Fortune comes to a laughing gate",
     "meaning": "Happiness and good fortune come to those who smile",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -149,7 +149,7 @@
     "romaji": "Anzuru yori umu ga yasushi",
     "english": "Giving birth is easier than worrying",
     "meaning": "Things are often easier done than worried about",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -158,7 +158,7 @@
     "romaji": "Uogokoro areba mizugokoro",
     "english": "If fish has heart, water has heart",
     "meaning": "Good intentions will be reciprocated",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -167,7 +167,7 @@
     "romaji": "Inu mo arukeba bou ni ataru",
     "english": "Even a walking dog will hit a stick",
     "meaning": "Try anything and you might get lucky (or unlucky)",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -176,7 +176,7 @@
     "romaji": "Shiranu ga hotoke",
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -185,7 +185,7 @@
     "romaji": "Ryouyaku wa kuchi ni nigashi",
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice often sounds harsh",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -194,7 +194,7 @@
     "romaji": "Koketsu ni irazunba koji wo ezu",
     "english": "If you don't enter the tiger's den, you can't get the cub",
     "meaning": "Nothing ventured, nothing gained",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -203,7 +203,7 @@
     "romaji": "Kaeru no ko wa kaeru",
     "english": "A frog's child is a frog",
     "meaning": "Like father, like son",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -212,7 +212,7 @@
     "romaji": "Uma no mimi ni nenbutsu",
     "english": "Preaching Buddha to a horse's ear",
     "meaning": "Wasting good advice on someone who won't listen",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -221,7 +221,7 @@
     "romaji": "Hayaoki wa sanmon no toku",
     "english": "Early rising is worth three coins",
     "meaning": "The early bird catches the worm",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -230,7 +230,7 @@
     "romaji": "Neko ni koban",
     "english": "Gold coins to a cat",
     "meaning": "Giving something valuable to someone who can't appreciate it",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -239,7 +239,7 @@
     "romaji": "Deru kui wa utareru",
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Those who stand out may face criticism",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -249,7 +249,7 @@
     "english": "Seven falls, eight struggles",
     "meaning": "Going through great pain and struggle",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 29,
